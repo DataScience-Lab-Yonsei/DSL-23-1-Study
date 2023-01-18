@@ -1,9 +1,7 @@
 # 추천시스템 심화스터디
----
 활동 인원: 김남훈, 안세정, 유채원, 최윤서
 
 # Schedules
----
 ### 1주차(23.01.10)
 - 학습내용: 추천시스템 분석 입문하기 1-2강
   - 연관규칙분석(Apriori, FP-Growth)
@@ -20,6 +18,5 @@
 - 학습내용: 추천시스템 분석 
 
 # 학습자료
---- 
 - SKplanet Tacademy,  [토크ON세미나] 추천시스템 분석 입문하기 
   https://www.youtube.com/watch?v=TFbTU9VG3is&t=1551s
