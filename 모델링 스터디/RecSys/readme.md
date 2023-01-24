@@ -1,6 +1,12 @@
 # 추천시스템 심화스터디
 활동 인원: 김남훈, 안세정, 유채원, 최윤서
 
+# 학습자료
+- SKplanet Tacademy,  [토크ON세미나] 추천시스템 분석 입문하기 
+  https://www.youtube.com/watch?v=TFbTU9VG3is&t=1551s
+ - Charu C. Aggarwal, Recommender Systems The Textbook
+  https://link.springer.com/book/10.1007/978-3-319-29659-3
+
 # Schedules
 #### 1주차(23.01.10)
 - 학습내용: 추천시스템 분석 입문하기 1-2강
@@ -23,8 +29,4 @@
 - 학습내용: Recommender Systems The Textbook Chapter 1,2
 - 발제자: 유채원
 
-# 학습자료
-- SKplanet Tacademy,  [토크ON세미나] 추천시스템 분석 입문하기 
-  https://www.youtube.com/watch?v=TFbTU9VG3is&t=1551s
- - Charu C. Aggarwal, Recommender Systems The Textbook
-  https://link.springer.com/book/10.1007/978-3-319-29659-3
+
